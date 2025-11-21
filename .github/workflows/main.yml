@@ -13,4 +13,4 @@ jobs:
         run: date
 
       - name: 3) Afficher le répertoire courant
-        rn: pwd
+        run: pwd
